@@ -29,6 +29,12 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 
 <br>
 </br>
+</br>
+</br>
+</br>
+</br>
+
+
 
 ## Program:
 ```
@@ -180,7 +186,11 @@ print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 ```
 ## Output:
 ![KNN_O1](https://user-images.githubusercontent.com/77089743/169484878-31d51f94-44fe-42c8-a0fa-c38cba824302.PNG)
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 ## Result:
