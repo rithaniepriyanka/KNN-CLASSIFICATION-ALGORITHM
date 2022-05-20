@@ -184,13 +184,18 @@ scores = evaluate_algorithm(dataset, k_nearest_neighbors, n_folds, num_neighbors
 print('Scores: %s' % scores)
 print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 ```
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
 ## Output:
 ![KNN_O1](https://user-images.githubusercontent.com/77089743/169484878-31d51f94-44fe-42c8-a0fa-c38cba824302.PNG)
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 
 ## Result:
